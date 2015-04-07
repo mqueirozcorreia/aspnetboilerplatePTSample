@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="pt">
+  <texts>
+    <text name="HomePage" value="Página Inicial" />
+    <text name="About" value="Sobre" />
+    <text name="WellcomeMessage" value="Bem vindo à AplicacoesWeb!" />
+    <text name="Home_ThisIsATemplate" value="Este modelo de projeto é um ponto de inicio para desenvolver aplicações usando..." />
+    <text name="Home_AspNetDescription" value="ASP.NET MVC dá a você uma poderosa, forma baseada em padrões para criar websites dinâmicos que habilitam uma separação clara de conceitos e que dá a você controle total sobre markup para divertido desenvolvimento ágil." />
+    <text name="Home_AspNetBoilerplateDescription" value="ASP.NET Boilerplate é uma framework para criar aplicações web com melhores prátifcas e ferramentas mais populares." />
+    <text name="LearnMore" value="Learn more" />
+    <text name="Home_AngularDescription" value="AngularJs é uma aplicação de framework Página Única (Single Page Application - SPA) do Google. Ela permite você extender o vocabulário para sua aplicação. O ambiente resultante é estraordiariamente expressivo, legível, e rápido para desenvolver." />
+    <text name="AboutFormat" value="About {0}" />
+    <text name="About_AspNetBoilerplateDescription" value="ASP.NET Boilerplate é um ponto de início para novas aplicações web com melhores prática e ferramentas mais populares! ASP.NET Boilerplate provê uma infraestrturura para &lt;strong&gt;arquitetura multi camadas&lt;/strong&gt; e &lt;strong&gt;Projeto Orientado a Domínio&lt;/strong&gt;." />
+    <text name="ForMoreInformation" value="Para mais informações" />
+    <text name="PortugueseArticle" value="Artigo de Avaliação em Português" />
+    
+
+    <text name="TaskSystem" value="Sistema de Tarefa" />
+    <text name="TaskList" value="Lista de Tarefa" />
+    <text name="NewTask" value="Nova Tarefa" />
+    <text name="Xtasks" value="{0} tarefas" />
+    <text name="AllTasks" value="Todas Tarefas" />
+    <text name="ActiveTasks" value="Tarefas Ativas" />
+    <text name="CompletedTasks" value="Tarefas Completas" />
+    <text name="TaskDescription" value="Descrição da Tarefa" />
+    <text name="EnterDescriptionHere" value="Descrição da Tarefa" />
+    <text name="AssignTo" value="Atribuída para" />
+    <text name="SelectPerson" value="Selecione a Pessoa" />
+    <text name="CreateTheTask" value="Crie a tarefa" />
+    <text name="TaskUpdatedMessage" value="Tarefa foi atualizada com sucesso" />
+    <text name="TaskCreatedMessage" value="Tarefa {0} foi criada com sucesso." />
+  </texts>
+</localizationDictionary>
